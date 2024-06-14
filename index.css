@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#currentTime{
+  border: 2px solid red;
+  color: blue;
+  margin: 40px;
+  padding: 20px;
+  font-size: 24px;
+}
+.container{
+  background-color: blanchedalmond;
+  border: 2px solid red;
+  color: blue;
+  text-align: center;
+  position: absolute;
+  top: 100px;
+  left: 35%;
+}
+button{
+  color: black;
+  /* border: none; */
+  font-size: 16px;
+  background-color: chartreuse;
+  text-decoration: solid;
+}
+.primary{
+  border: 1px dotted blueviolet;
+}
+
+#currentTimeInIT{
+  border: 2px solid red;
+  color: blue;
+  margin: 40px;
+  padding: 20px;
+  font-size: 24px;
+}
